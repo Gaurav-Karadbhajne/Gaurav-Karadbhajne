@@ -4,3 +4,7 @@
  - 💼 Currently exploring opportunities in the tech industry.
 - 💻 Proficient in Java , Springboot , HTML ,CSS , Javascript , React.js , Monodb , Node.js with a keen interest in Java development , Web Development , Full Stack Mern Development.
 - 🌟 I love collaborating on projects that challenge me and push my boundaries.
+# Get in Touch 📫
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gaurav-karadbhajne/)
+- Email: [Email](gauravkaradbhajne@gmail.com)
+  
